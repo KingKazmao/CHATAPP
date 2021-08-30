@@ -1,17 +1,34 @@
-# Welcome to MS Teams Clone!
+Real time chat app
 
-### [Example Website](https://chat-app-jsmastery.netlify.app)
+ app name * Cool Chat *
 
-![Teams Build with Chat Engine](https://i.ibb.co/vDhx8Md/Whats-App-Image-2021-01-26-at-02-01-43.jpg)
+This App allows users to enter live chat rooms, Each chat room can support up to a number of people (will be determined) at a time! to get started just enter jyour name and that chat room you wish to join. The front end was built using React and the Back end 
+was built using Node.Js, andq Socket.io for real time communication.
 
-## Introduction
+Node.Js/ React/ Socket.io
 
-This is a Microsoft Teams clone built with React JS and [Chat Engine](https://chatengine.io)!
 
-React JS is the programming language of choice, and Chat Engine is a set of APIs and UI Kit specific to chat.
 
-Its a good example of learning react and creating something production ready!
+MVPs
+- React Based Component
+- Supports Text with Markdown 
+- uses web sockets
+- contact list
+*show all the friends in the database who you could chat with
+ - once the particular user has been signed up anyone could chat with them
+ - sorts messages with a time stamp 
+- can connect with friends and keep people connected
+- the ability to have fun with the ability to chat with friends 
+ - sign up username + password
+ -logout button
 
-## Want to build this too?
 
-Watch the video where we build Microsoft Teams [here](https://www.youtube.com/watch?v=jcOKU9f86XE)
+Potential things
+* Message Notification (red badges)
+ - when a user sending messages to another, they will receive a notification bubble ( red badges )
+
+* built-in emoji
+- little emoticons built in for the chat bar
+
+* Custom User icons
+- little profile avatars tos how a little flare.
